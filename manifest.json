@@ -1,0 +1,9 @@
+{
+  "short_name": "TrackUtang",
+  "name": "TrackUtang — Debt and Payment Tracker",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0b4f3c",
+  "background_color": "#f8f7f2"
+}
